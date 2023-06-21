@@ -8,10 +8,10 @@
 #
 # It's safe to re-run this script
 
-hostname="${CRONNIT_HOSTNAME:-my.hostname.com}"
-client_id="${CRONNIT_CLIENT_ID:-XXXX}"
-client_secret="${CRONNIT_CLIENT_SECRET:-XXXX}"
-email="${CRONNIT_EMAIL:-myemail@gmail.com}"
+hostname="pinayred.com"
+client_id="MAEClHyTUf2ZAeJkY9SWyQ"
+client_secret="Z6K-Z0Jo4uqBcnKbx4JZwzpzdUsTkw"
+email="nguyenhaiking@gmail.com"
 
 # Make sure we are running as root
 if [ $(whoami) != root ]; then
@@ -197,7 +197,7 @@ su cronnit <<EOF
 
     if [ ! -d .git ]; then
         git init
-        git remote add origin https://github.com/krisives/cronnit.com
+        git remote add origin https://github.com/nguyenhaiking/llecronnit
     fi
 
     git pull origin master
