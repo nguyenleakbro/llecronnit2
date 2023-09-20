@@ -8,7 +8,7 @@
 #
 # It's safe to re-run this script
 
-hostname="pinayred.com"
+hostname="reddhubs.com"
 client_id="FMHpO4I8ovXyNMQQIz7YnQ"
 client_secret="wP6BS4I9CggELaSxqrrbqpe5qk_0nw"
 email="nguyenhaiking@gmail.com"
