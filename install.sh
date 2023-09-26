@@ -8,9 +8,9 @@
 #
 # It's safe to re-run this script
 
-hostname="staklokristal.com"
-client_id="7DGg8dlCuBxb7uZ0Sxg9ng"
-client_secret="G7Z5Gm4lvmkPadZjKugxOPkonagmOg"
+hostname="pinayred.com"
+client_id="DdSTeUkDjB4JuzBomg1hgw"
+client_secret="vgYOvnIABb-TYmKRwClHrTajzqC_Zg"
 email="nguyenhaiking@gmail.com"
 
 # Make sure we are running as root
