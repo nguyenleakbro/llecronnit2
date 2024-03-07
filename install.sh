@@ -8,9 +8,9 @@
 #
 # It's safe to re-run this script
 
-hostname="pinayred.com"
-client_id="DdSTeUkDjB4JuzBomg1hgw"
-client_secret="vgYOvnIABb-TYmKRwClHrTajzqC_Zg"
+hostname="oldred.click"
+client_id="Tqp4F_oD7Y5DYWaBJcdZPQ"
+client_secret="DwD1DeHPAFkl2ahNDi6ZCXCQjK3eTg"
 email="nguyenhaiking@gmail.com"
 
 # Make sure we are running as root
