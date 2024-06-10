@@ -8,9 +8,9 @@
 #
 # It's safe to re-run this script
 
-hostname="oldred.click"
-client_id="Tqp4F_oD7Y5DYWaBJcdZPQ"
-client_secret="DwD1DeHPAFkl2ahNDi6ZCXCQjK3eTg"
+hostname="cronnit.local"
+client_id="9HEx-0Z1hYypUvdZS9cSVg"
+client_secret="kyuXlJBgduVJbuDgz3CSUNWxdboL9w"
 email="nguyenhaiking@gmail.com"
 
 # Make sure we are running as root
@@ -197,7 +197,7 @@ su cronnit <<EOF
 
     if [ ! -d .git ]; then
         git init
-        git remote add origin https://github.com/nguyenhaiking/llecronnit
+        git remote add origin https://github.com/nguyenleakbro/llecronnit2
     fi
 
     git pull origin master
