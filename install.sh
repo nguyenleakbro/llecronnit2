@@ -11,7 +11,7 @@
 hostname="cronnit.local"
 client_id="9HEx-0Z1hYypUvdZS9cSVg"
 client_secret="kyuXlJBgduVJbuDgz3CSUNWxdboL9w"
-email="nguyenhaiking@gmail.com"
+email="hihenobile@gmail.com"
 
 # Make sure we are running as root
 if [ $(whoami) != root ]; then
